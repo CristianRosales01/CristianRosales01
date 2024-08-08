@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello World, I'm Cristian Rosales 👋
+
+I´m Tech Lead and Fullstack developer based in Chile, with 15 years of experiencie in the software industry. I have worked on projects with a develpment environment based on Java, C#, NodeJs and Angular. I also have experience in Github, Gitub Actions, Bitbucket, Aws Kubernetes, Docker, Jenkins. I like to work in teams.
+
+🌱 I am currently working as a software technical leader.
 
 <!--
 **CristianRosales01/CristianRosales01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
